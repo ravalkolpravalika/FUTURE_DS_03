@@ -1,5 +1,5 @@
 # Marketing Funnel & Conversion Performance Analysis
-
+![Dashboard Screenshot](funnel.png)
 ## Introduction
 
 This project focuses on analyzing marketing funnel and conversion performance using customer and campaign data. The objective of the analysis is to understand how users move through different funnel stages from visitors to leads and finally to customers. The project aims to identify conversion bottlenecks, analyze customer drop-off patterns, evaluate marketing channel performance, and generate business insights that can help improve overall conversion rates and customer acquisition strategies.
